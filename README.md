@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+- I am a C/C++er and will be a haskeller.
+- Interested in:
+  - ISA design and implementation
+  - OS design and implementation
+  - Programming language design and verification
+  - Computer graphics
+- working on the verification(UB dectection specifically) of C program
 <!--
 **Liu-Xiangzhi/Liu-Xiangzhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
